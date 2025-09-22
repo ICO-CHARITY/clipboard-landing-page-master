@@ -91,6 +91,7 @@ h3 {
   background-image: url("images/bg-header-mobile.png");
   background-repeat: no-repeat;
   background-size: contain;
+  background-position:center top;
 }
 
 .first-list {
