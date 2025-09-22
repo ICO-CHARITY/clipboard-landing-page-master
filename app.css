@@ -325,6 +325,6 @@ footer {
   .section2 {
     right: 17.5rem;
   }
-  .section5{
-    padding: 0rem 1rem;
+  .section5 p {
+    padding: 0rem 1.3rem;
 }
