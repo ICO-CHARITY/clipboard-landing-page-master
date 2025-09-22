@@ -323,7 +323,8 @@ footer {
 
 @media (min-width: 1000px) {
   .section2 {
-    right: 16rem;
+    right: 17.5rem;
   }
-  
+  .section5{
+    padding: 0rem 1rem;
 }
